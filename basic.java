@@ -26,11 +26,16 @@ public class basic {
       b=temp;
       System.out.println("a:"+a + "b:"+b);
       */
-
+    /*
 
       //swap without third variable
 
-
+      int a=5; int b=10;
+      a=a+b;
+      b=a-b;
+      a=a-b;
+      System.out.println("a:"+a + "b:"+b);
+    */
 
     /*
       //even or odd
@@ -60,6 +65,28 @@ public class basic {
         }
      
     */
+    
+    /*
+    //largest of two no
+
+    int a=5; int b=9;
+    if (a==b){
+        System.out.println("a and b are equal");  
+    }
+    else if (a>b){
+        System.out.println("a is greator");
+    }
+    else {
+        System.out.println("b is greator");
+    }
+
+    */
+
+    //largest of three
+    int a=5; int b=9; int c=2;
+    if ()
+
+
 
 
 
