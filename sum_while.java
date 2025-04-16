@@ -14,5 +14,4 @@ public class sum_while {
         }
         System.out.println(sum);
     }
-    
 }
