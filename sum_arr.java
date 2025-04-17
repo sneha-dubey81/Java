@@ -11,7 +11,15 @@ public class sum_arr {
       for(int i=0;i<n;i++){
         arr[i]=in.nextInt();
       }
-      
+      for(int j=0;j<n;j++){
+        for(int k=0;k<n;k++){
+        int sum=arr[j]+arr[k];
+        if(sum==5){
+            System.out.println("index:");
+            System.out.println(k +" and "+ j);
+        }}
+
+      }
     }
     
 }
