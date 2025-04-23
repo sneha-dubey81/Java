@@ -17,8 +17,8 @@ public class most_repeating {
                 maxvalue=c;
             }
         }
-        System.out.println(maxcount);
-        System.out.println(maxvalue);
+        System.out.println("most repeating value of string : "+maxvalue);
+        System.out.println("max occurence : "+maxcount);
     }
     
 }
