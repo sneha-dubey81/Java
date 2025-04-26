@@ -18,6 +18,16 @@ public class function {
         System.out.println(sum);
 
     }
+    static void smallest (){
+        int arr[]={2,4,7,1,7,8};
+        int min =arr[0];
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]<min){
+                min=arr[i];
+            }
+        }
+        System.out.println(min);
+    }
 
 
     
@@ -25,7 +35,7 @@ public class function {
       //  sum();
        // function obj= new function();
        // System.out.println(obj.sum(5,5));
-        sum2(123);
+        //sum2(123);
+        smallest();
     }
-    
 }
