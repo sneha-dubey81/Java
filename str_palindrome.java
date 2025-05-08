@@ -1,6 +1,6 @@
 public class str_palindrome {
     public static void main(String[] args) {
-        String palindrome= "racecar";
+        String palindrome= "1221";
         String reverse="";
         for(int i=palindrome.length()-1;i>=0;i--){
             reverse += palindrome.charAt(i);
