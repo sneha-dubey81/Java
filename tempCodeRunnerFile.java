@@ -1,0 +1,9 @@
+        // arr.add("sneha");
+        // arr.add("dubey");
+        // arr.add("sneha");
+        // arr.add(0,"dubey");
+        // System.out.println(arr);
+        // System.out.println(arr.get(0));
+        // System.out.println(arr.size());
+        // arr.set(2,"anjali");
+        // System.out.println(arr);
