@@ -1,4 +1,2 @@
-        // for(char i:arr){
-        //     map.put(i, map.getOrDefault(i, 0)+1);
-        // }
-        // System.out.println(map);
+MyThread t1=new MyThread();
+        // t1.start();

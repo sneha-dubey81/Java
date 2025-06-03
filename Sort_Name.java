@@ -28,9 +28,9 @@ public static void main(String[] args) {
     list.add(new Student(10, "avni", 12));
     list.add(new Student(22, "anushka", 20));
     list.add(new Student(3, "anjali", 12));
-    // Collections.sort(list,new sortByName());
+     Collections.sort(list,new sortByName());
     // System.out.println(list);
-    Collections.sort(list,new sortByRollN());
+    //Collections.sort(list,new sortByRollN());
 
     for(Student s : list){
         System.out.println(s);
