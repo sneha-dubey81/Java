@@ -1,2 +1,4 @@
-MyThread t1=new MyThread();
-        // t1.start();
+try {
+            //     Thread.sleep(2000);
+            // } catch (InterruptedException e) {
+            // }
